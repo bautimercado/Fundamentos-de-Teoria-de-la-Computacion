@@ -10,7 +10,7 @@
 - [Practica 7 - Clase NPI + Complejidad espacial](Computabilidad/Practica_7.md)
 ## Lógica e Inteligencia Artificial
 - [Practica 8 - Lógica de Enunciados + Representación Simbólica](Logica/Practica_8.md)
-- [Practica 9 - Tautologías, Contradicciones, Equivalencias lógicas y Conectivas](Logica/'Practica 9.docx')
-- [Practica 10 - Cálculo de Enunciados L](Logica/'Practica 10.docx')
-- [Practica 11 - Lógica de Predicados](Logica/'Practica 11.docx')
-- [Practica 12 - Semántica de la Lógica de Predicados](Logica/'Practica 12.docx')
+- [Practica 9 - Tautologías, Contradicciones, Equivalencias lógicas y Conectivas](Logica/practica_9.pdf)
+- [Practica 10 - Cálculo de Enunciados L](Logica/practica_10.pdf)
+- [Practica 11 - Lógica de Predicados](Logica/practica_11.pdf)
+- [Practica 12 - Semántica de la Lógica de Predicados](Logica/practica_12.pdf)
